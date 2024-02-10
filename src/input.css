@@ -2,3 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+/* @bg-primary{
+    .background{
+        style="background: url('https://static.vecteezy.com/system/resources/previews/022/085/252/large_2x/science-background-illustration-scientific-design-flasks-glass-and-chemistry-physics-elements-generative-ai-photo.jpeg') no-repeat center center/cover;"
+    }
+} */
