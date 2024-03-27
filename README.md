@@ -1,7 +1,7 @@
 # Smart Evaluation System
 
 ## Overview
-The Smart Evaluation System is an innovative tool that leverages the OpenAI API to evaluate or check answer scripts with minimal effort. It primarily checks the answer script using AI. Users only need to provide the answer script and teacher's feedback on our website. Within a minute, the marks get generated along with a review of the paper. The review shows the quality of the answer, indicating if a teacher can improve marks in any part.
+The Smart Evaluation System is an innovative tool that leverages the OpenAI API (mainly ChatGpt 4 tarbo, ChatGpt 3.5) to evaluate or check answer scripts with minimal effort. It primarily checks the answer script using AI. Users only need to provide the answer script and teacher's feedback on our website. Within a minute, the marks get generated along with a review of the paper. The review shows the quality of the answer, indicating if a teacher can improve marks in any part.
 
 ## Technology Stack
 - **Backend**: Python
